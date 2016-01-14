@@ -1,0 +1,25 @@
+{
+  "name": "nodetwilio",
+  "version": "0.0.5",
+  "description": "Send texts from the command line!",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "node-notifier": "^4.4.0",
+    "prompt": "^0.2.14",
+    "twilio": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "texting",
+    "text",
+    "sms",
+    "phone"
+  ],
+  "author": "Justin Willis",
+  "license": "ISC"
+}
